@@ -7,5 +7,5 @@ Records are stored in a Mongo database server when online but can also be stored
 ## Installation
 install node dependencies
 
-![Alt text](online_offline_budget_tracker_screenshot.PNG?raw=true "Preview image of Tracker")
+![Alt text](img/online_offline_budget_tracker_screenshot.PNG?raw=true "Preview image of Tracker")
 SITE LINK: https://pure-ridge-30920.herokuapp.com/
